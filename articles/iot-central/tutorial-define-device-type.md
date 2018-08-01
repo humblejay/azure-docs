@@ -337,8 +337,8 @@ You use _commands_ to enable an operator to run commands directly on the device.
     | Display Name         | Echo Command    |
     | Field Name           | echo            |
     | Default Timeout      | 30              |
-    | Display Name         | Display Text    |
-    | Display Type         | text            |  
+    | Data Type            | text            |
+    | Description          | Device command  |  
 
 You can add additional inputs to the command by clicking **+** for inputs.
 
